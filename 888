@@ -1,0 +1,4 @@
+from main import *
+
+player = make_hero(inventory=["зелье"], hp_now=100)
+start_fight(pleyer)
